@@ -4,7 +4,7 @@
 void main()
 {
 int i=0,j=0,k=0;
-char a[100]="This is an Example";
+char a[100]="This is an Example for this question";
 char b[10][10];
 clrscr();
 do
